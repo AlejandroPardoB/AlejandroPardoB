@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola,Soy José Alejandro Pardo Bautista</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="" src="" />
+<img align="right" width=300px alt="Leclerc" src="https://github.com/user-attachments/assets/26dd5fc6-4ec7-4c9f-a23b-9d3a281b5921" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de Mí***
 
